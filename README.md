@@ -1,5 +1,7 @@
-# next-net
+# NEXT-NET
 A Deliberative Project for the Advancement of Water Systems Simulation
+
+Before you initiate a pull request, please read this document. Proposals and other ideas should be thoroughly discussed in Issues first.
 
 ## Project Purpose and Scope
 The purpose of this project is to collaboratively plot a course for development of a hydraulic solution engine worthy of carying on the legacy of EPANET. This project's scope is limited to design and development of a hydraulic and water quality solution engine, extended-period simulation capabilities, and I/O extensions to provide backwards compatibility with EPANET files and assets. The development of extended features, GUIs, and derivative tools is meant to be enabled by the work done here, but is out of scope for this project.
